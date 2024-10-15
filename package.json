@@ -1,0 +1,12 @@
+{
+  "name": "desafio-cypress",
+  "version": "1.0.0",
+  "description": "Cypress project following best practices",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
